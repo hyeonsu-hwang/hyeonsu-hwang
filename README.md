@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning about "Natural Language Processing".
 
 Here is my "project code" and "practice code".
+
 Learning space, Presentadion : https://flicker-block-1d6.notion.site/3e8591735a924def9fe38530c9325199
 
 
