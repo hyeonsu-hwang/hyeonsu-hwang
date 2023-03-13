@@ -1,7 +1,7 @@
 ### Hi there 👋
-# 👋 Hi, I’m Hyeonsu Hwang.
-# 👀 I’m interested in AI(Artificial Intelligence).
-# 🌱 I’m currently learning about "Natural Language Processing".
+👋 Hi, I’m Hyeonsu Hwang.
+👀 I’m interested in AI(Artificial Intelligence).
+🌱 I’m currently learning about "Natural Language Processing".
 
 <!--
 **hyeonsu-hwang/hyeonsu-hwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
