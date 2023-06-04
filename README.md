@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Hyeonsu Hwang.
 - 👀 I’m interested in AI(Artificial Intelligence).
-- 🌱 I’m currently learning about "Transfomer and VAE".
+- 🌱 I’m currently learning about "Transfomer and Anomaly Detection ".
 
 Here is my "project code" and "practice code".
 
